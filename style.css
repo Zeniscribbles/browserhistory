@@ -12,4 +12,7 @@ body {
 
   img {
     vertical-align: middle;
+    float: left; 
+    margin: 10px; 
+    width: 100px
   }
